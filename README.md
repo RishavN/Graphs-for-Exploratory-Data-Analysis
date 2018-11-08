@@ -1,4 +1,4 @@
-# Graphs-for-Exploratory-Data-Analysis
+# Graphs for Exploratory Data Analysis
 
 ## Introduction:
 
