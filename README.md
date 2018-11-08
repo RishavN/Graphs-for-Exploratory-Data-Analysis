@@ -7,6 +7,9 @@ Imagine how lengthy the process of exploration might become especially when you 
 For simplicity, consider that that data that you are working with contains only numerical variables. In order to understand the variables, you may need to plot histogram and/or boxplots for every variable. If you are working with plenty of variables, then generating such graphics separately will certainly be a time consuming process. In this assignment your objective will be to create function/s to automate this enormously large steps. This will give you more time to analyse the graphs rather than to spending a lot of time in generating the same. 
 
 ## Task:
+
+*[This was my first ever data science assignment]*
+
 Start by creating a very simple framework as suggested below (10 marks).  Then follow the suggestions to make improvements (40 marks). Take yourself beyond these suggestions. Be more and more creative and make the function more useful and make the output look better. (20 marks)
 Create a function Graphs as follows:
 
