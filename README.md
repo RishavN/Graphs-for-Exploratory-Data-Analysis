@@ -59,9 +59,3 @@ will generate the necessary graphics for the variables 1, 3 and 4 in the ‘C’
 
 Create a local package that will hold this function. Instead of running the function every time, load the package and call the function to generate your graphs.
 
-
-
-### Further Improvements:
-
-...
-
